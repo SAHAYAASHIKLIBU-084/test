@@ -1,2 +1,4 @@
+some errors are solved
+
 this one is an training file
 
